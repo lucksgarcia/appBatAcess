@@ -8,5 +8,5 @@
 ## Imagem do APP
 
 <p align="center">
-    <img width="150" src="assets/imagens/pagApp_BatAcess.jpg">
+    <img width="200" src="assets/imagens/pagApp_BatAcess.jpg">
 </p>
